@@ -75,6 +75,11 @@
 			<artifactId>vulnerable-lib</artifactId>
 			<version>1.0.0</version>
 		</dependency>
+		<dependency>
+    		<groupId>org.springframework</groupId>
+    		<artifactId>spring-core</artifactId>
+    		<version>4.3.0.RELEASE</version>
+		</dependency>
         <dependency>
 			<groupId>com.nqzero</groupId>
 			<artifactId>permit-reflect</artifactId>
