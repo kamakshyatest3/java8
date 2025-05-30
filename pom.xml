@@ -70,11 +70,6 @@
             <optional>true</optional>
             <scope>test</scope>
         </dependency>
-		<dependency>
-			<groupId>org.owasp.vulnerable-lib</groupId>
-			<artifactId>vulnerable-lib</artifactId>
-			<version>1.0.0</version>
-		</dependency>
         <dependency>
 			<groupId>com.nqzero</groupId>
 			<artifactId>permit-reflect</artifactId>
