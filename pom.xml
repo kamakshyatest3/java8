@@ -120,6 +120,11 @@
 	        <artifactId>shadycss</artifactId>
 	        <version>1.9.1 </version>
 	      </dependency>
+		  <dependency>
+			<groupId>org.json</groupId>
+			<artifactId>json</artifactId>
+			<version>20180130</version>
+		</dependency>
 	      <dependency>
         	<groupId>org.semver</groupId>
         	<artifactId>api</artifactId>
