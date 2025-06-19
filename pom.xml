@@ -76,6 +76,11 @@
             <scope>test</scope>
         </dependency>
 		<dependency>
+			<groupId>org.eclipse.jetty</groupId>
+			<artifactId>jetty-server</artifactId>
+			<version>9.2.3.v20140905</version>
+		</dependency>
+		<dependency>
 			<groupId>org.owasp.vulnerable-lib</groupId>
 			<artifactId>vulnerable-lib</artifactId>
 			<version>1.0.0</version>
